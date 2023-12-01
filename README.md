@@ -1,4 +1,4 @@
-![YouTube API CoverImage (1)](https://github.com/sebasquirarte/YouTube-API-Project/assets/39809366/68657e6f-13e3-4f8f-8db8-6284c2fa8d29)
+![YouTube_API_CoverImage](https://github.com/sebasquirarte/YouTube-API-Project/assets/39809366/70391465-7cad-4cfc-9b49-3f706c89b82c)
 
 Sebastian Quirarte | sebastianquirajus@gmail.<nolink>com | in/sebastianquirarte | Last Updated: Nov 29 2023
 
