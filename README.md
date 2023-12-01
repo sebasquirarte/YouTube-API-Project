@@ -38,3 +38,7 @@ The aim of this project is to extract, transform, and visualize data from any Yo
 
 ### Dashboard PowerBI ([LINK](https://www.novypro.com/project/youtube-api-project-power-bi))
 <img width="959" alt="YoutubeAPI Dashboard" src="https://github.com/sebasquirarte/YouTube-API-Project/assets/39809366/6c425d3d-0ca5-4669-a074-0b506ac0964b">
+
+# Full project in Jupyter Notebook and PDF
+- [Jupyter Notebook](https://github.com/sebasquirarte/YouTube-API-Project/blob/main/Youtube-API.ipynb)
+- [PDF]()
